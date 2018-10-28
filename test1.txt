@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0ADA-A4C9
+
+ Directory of C:\Users\sandy\Desktop\polaris\demof
+
+10/28/2018  06:25 AM    <DIR>          .
+10/28/2018  06:25 AM    <DIR>          ..
+10/28/2018  06:24 AM               361 index.html
+10/28/2018  06:25 AM                 0 test1.txt
+               2 File(s)            361 bytes
+               2 Dir(s)     266,608,640 bytes free
